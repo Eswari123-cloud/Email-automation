@@ -6,3 +6,5 @@ server.starttls()
 server.login('senderemail', 'password')
 server.sendmail (senderemail, to, testing email automation!') 
 server.close()
+
+sendEamil()
